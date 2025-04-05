@@ -1,4 +1,2 @@
 //app
 //java
-
-//method
